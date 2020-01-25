@@ -21,8 +21,8 @@ describe '#speak_to_grandma' do
 
 end
 
-def speak_to_grandma("I LOVE YOU GRANDMA")
-  if string == ""
+def speak_to_grandma(string)
+  if string == "I LOVE YOU GRANDMA";
 
     
 end
