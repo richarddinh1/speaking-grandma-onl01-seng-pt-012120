@@ -21,7 +21,8 @@ describe '#speak_to_grandma' do
 
 end
 
-def speak_to_grandma(string)
+def speak_to_grandma("I LOVE YOU GRANDMA")
+  
 
     
 end
