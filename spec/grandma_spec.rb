@@ -20,3 +20,8 @@ describe '#speak_to_grandma' do
   end
 
 end
+
+def speak_to_grandma("I LOVE YOU GRANDMA!")
+  if ("I LOVE YOU TOO PUMPKIN!")
+    
+end
